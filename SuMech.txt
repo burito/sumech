@@ -1,4 +1,4 @@
-## Title: a Succinct Mechanics
+## Title: Succinct Mechanics
 ## Author: |c3CD184AramDol|r
 ## APIVersion: 100035
 ## SavedVariables: SuMechSavedVariables
