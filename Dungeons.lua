@@ -195,7 +195,7 @@ SuMech.data = {
     ["Reggr Dark-Dawn"] = { [0] = "Will Drain Magicka" },
     -- bosses
     ["Gamyne Bandu"] = { [0] = "Everyone kill the same Shade" },
-    ["Spawn of Mephala"] = { [0] = "Stay away from Portal" },
+    ["Spawn of Mephala"] = { [0] = "Closest person to cave gets sent to the spider room" },
     ["Vila Theran"] = { [0] = "|c0000FFBubble|r protects |c0000FFBeams|r HM:don't use" },
   },
 
